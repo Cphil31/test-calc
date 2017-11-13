@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h1>hello world</h1>
-	
+	<script src="https://cdn.jsdelivr.net/semantic-ui/2.2.10/semantic.min.js"></script>
+	<script src="../js/app.js"></script>
 </body>
 </html>
